@@ -22,25 +22,6 @@ public class IRCColorSelect {
     public static String COLOR      = "\u0003";
     public static String TERMINATE  = "\u000F";
     
-    // Color Codes
-    
-    public static String C_WHITE  = "00";
-    public static String C_BLACK  = "01";
-    public static String C_BLUE   = "02";
-    public static String C_GREEN  = "03";
-    public static String C_RED    = "04";
-    public static String C_BROWN  = "05";
-    public static String C_PURPLE = "06";
-    public static String C_ORANGE = "07";
-    public static String C_YELLOW = "08";
-    public static String C_LGREEN = "09";
-    public static String C_TEAL   = "10";
-    public static String C_CYAN   = "11";
-    public static String C_LBLUE  = "12";
-    public static String C_PINK   = "13";
-    public static String C_GREY   = "14";
-    public static String C_LGREY  = "15";
-    
     private String text;
     private int color;
     private int background;
